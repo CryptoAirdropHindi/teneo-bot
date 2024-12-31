@@ -49,6 +49,9 @@ email2,password2
 email3,password3
 ```
  Modify and set the `proxy.txt` file if you want to use proxy
+```bash
+nano proxy.txt
+```
 ```
 ip:port
 username:password@ip:port
