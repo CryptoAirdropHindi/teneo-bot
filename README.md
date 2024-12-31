@@ -17,6 +17,13 @@ hWc9y
 2. [Proxy-Cheap](https://app.proxy-cheap.com/r/OhWwGe)
 3. [Infatica](https://dashboard.infatica.io/aff.php?aff=571)
 
+# Attention Before Running Teneo Cli Version
+
+I am not `responsible` for the possibility of an account being `banned`, due to running node in the CLI, because
+Officially Teneo Node Beta does not provide an option for the CLI version, only with the Chrome extension. but `I
+think` there is no reason to ban the account, because this is not cheating, I didn't change anything in the script
+(Heartbeats 15 minutes, maximum teneo points 25, maximum points per day 2400)
+
 ## Features
 - **Automated node interaction**
 
