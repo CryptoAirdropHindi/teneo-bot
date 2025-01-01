@@ -24,12 +24,19 @@ Officially Teneo Node Beta does not provide an option for the CLI version, only 
 think` there is no reason to ban the account, because this is not cheating, I didn't change anything in the script
 (Heartbeats 15 minutes, maximum teneo points 25, maximum points per day 2400)
 
+## To checks system's vCPU cores, RAM, and SSD (disk) usage
+```bash
+curl -o system_info.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/system_info.sh && chmod +x system_info.sh && ./system_info.sh
+```
 ## Features
 - **Automated node interaction**
 
 ## Prerequisites
 - [Node.js](https://nodejs.org/) (version 12 or higher)
-
+Node.js install
+```bash
+curl -o install-node.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install-node.sh && chmod +x install-node.sh &&  ./install-node.sh
+```
 ## Installation
 
 1. Clone the repository to your local machine:
