@@ -70,6 +70,7 @@ email1,password1
 email2,password2
 email3,password3
 ```
+To save the file, press `control+X+Y.`
  Modify and set the `proxy.txt` file if you want to use proxy
 ```bash
 nano proxy.txt
@@ -80,11 +81,16 @@ username:password@ip:port
 http://ip:port
 http://username:password@ip:port
 ```
+To save the file, press `control+X+Y.`
 3. Run the script:
 ```bash
 node index.js
 ```
 Use `A` and `D` to move/change view to other accounts, `C` to stop the script.
+# View logs
+```bash
+screen -r teneo
+```
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
