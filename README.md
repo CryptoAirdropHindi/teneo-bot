@@ -37,6 +37,11 @@ Node.js install
 ```bash
 curl -o install-node.sh https://raw.githubusercontent.com/CryptoAirdropHindi/Tools/refs/heads/main/install-node.sh && chmod +x install-node.sh &&  ./install-node.sh
 ```
+new Create screen
+```bash
+screen -S teneo
+```
+
 ## Installation
 
 1. Clone the repository to your local machine:
